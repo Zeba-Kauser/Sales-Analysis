@@ -12,7 +12,7 @@
 
 [**Power BI  Report**](https://app.powerbi.com/view?r=eyJrIjoiMTkxZWQ4ZmMtNDBjOS00M2E1LWJmMzYtNmMxZDFkOWZlY2YwIiwidCI6IjkyZGI5MDhjLWFjZGItNGEwOC1iOTdhLWZiYjE1NjI2NDY1MiJ9)
 
-![imag](https://github.com/Zeba-Kauser/Imges/blob/main/SalesAnamysis.png?raw=true)
+![imag](https://github.com/Zeba-Kauser/Imges/blob/main/Screenshot%202024-07-23%20094002.png?raw=true)
 
 
 ## 🔎 Findings
