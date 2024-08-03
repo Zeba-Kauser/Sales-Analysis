@@ -10,7 +10,7 @@
 
 - Assess the impact of promotional campaigns on sales and consumer behavior to refine future marketing efforts.
 
-[**Power BI  Report**](https://app.powerbi.com/view?r=eyJrIjoiMTkxZWQ4ZmMtNDBjOS00M2E1LWJmMzYtNmMxZDFkOWZlY2YwIiwidCI6IjkyZGI5MDhjLWFjZGItNGEwOC1iOTdhLWZiYjE1NjI2NDY1MiJ9)
+[**Power BI  Report**](https://app.powerbi.com/reportEmbed?reportId=a1c0ae61-4b28-4973-9bcc-2e443126df2b&autoAuth=true&ctid=92db908c-acdb-4a08-b97a-fbb156264652)
 
 ![imag](https://github.com/Zeba-Kauser/Imges/blob/main/Screenshot%202024-07-23%20094002.png?raw=true)
 
